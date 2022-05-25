@@ -5,7 +5,7 @@ int main()
     char str[30];
     cout<<"Enter Your Name: ";
     cin>>str;
-    cout<<"\nHello "<<str<<" Sir, This is codescracker.com!";
+    cout<<"\nHello "<<str<<" Sir, This is Parshant Bisht";
     cout<<endl;
     return 0;
 }
